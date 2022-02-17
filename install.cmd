@@ -5,7 +5,7 @@ SETLOCAL ENABLEDELAYEDEXPANSION
 CLS
 
 :: 1.8.8 Version
-SET MCP_LK=https://www.dropbox.com/s/d6cmpbrbpvz11xk/mcp189.zip?dl=1
+SET MCP_LK=https://www.dropbox.com/s/ygubospp5gftdk3/mcp189.zip?dl=1
 SET MC_VEV=1.8.9
 SET OPTIFINE_LK=https://raw.githubusercontent.com/Hexeption/Optifine-SRC/master/Optifine%20SRC%20Version%20%5B1.8.9%20HD%20U%20M5%5D.rar
 
