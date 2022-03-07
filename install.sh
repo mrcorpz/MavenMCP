@@ -5,7 +5,7 @@ echo "Installing MavenMCP"
 
 # 1.12.1 Version
 MCP_LK="https://www.dropbox.com/s/ygubospp5gftdk3/mcp189.zip?dl=1"
-MC_VEV="1.8.8"
+MC_VEV="1.8.9"
 
 # Downloading Beta MCP
 # TODO Check if there is already and tmp folder
